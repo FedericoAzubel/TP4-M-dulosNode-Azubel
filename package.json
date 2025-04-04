@@ -1,0 +1,12 @@
+{
+  "name": "tp4",
+  "version": "1.0.0",
+  "description": "Tp4 Modulos Azubel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Azubel Federico",
+  "license": "ISC"
+}
