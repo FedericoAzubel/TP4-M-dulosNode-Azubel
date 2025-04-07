@@ -8,5 +8,8 @@
     "start": "node index.js"
   },
   "author": "Azubel Federico",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "country-data": "^0.0.31"
+  }
 }
