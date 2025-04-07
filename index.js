@@ -24,10 +24,10 @@
 // let archivoViejo = './texto.txt'
 // function Copiar(archivoViejo, nuevoNobre) {
 //     const contenido = fs.readFileSync('texto.txt', 'utf8');
-//     fs.writeFileSync('nuevo.txt', contenido);
+//     fs.writeFileSync(nuevoNobre, contenido);
 // }
 
-// Copiar(archivoViejo, "NuevoNombre");
+// Copiar(archivoViejo, "NuevoNombre.txt");
 
 //EJ 5)
 
