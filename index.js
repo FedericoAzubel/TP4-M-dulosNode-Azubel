@@ -19,7 +19,6 @@
 
 // EJ 4)
 
-// const { CONNREFUSED } = require('dns');
 // const fs = require('fs');
 
 // let archivoViejo = './texto.txt'
